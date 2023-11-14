@@ -1,0 +1,4 @@
+[14-Nov-2023 15:40:37 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /Users/luispalacio/Workspace/error-handling/04.configuracion-errores-por-entorno/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/luispalacio/Workspace/error-handling/04.configuracion-errores-por-entorno/index.php on line 19

@@ -1,0 +1,17 @@
+{
+    "name": "luispalacio/04.configuracion-errores-por-entorno",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luispalacio\\04ConfiguracionErroresPorEntorno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Palacio",
+            "email": "siulacio@hotmail.com"
+        }
+    ]
+}
