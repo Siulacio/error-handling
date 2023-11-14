@@ -1,0 +1,4 @@
+[14-Nov-2023 01:37:55 UTC] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /Users/luispalacio/Workspace/error-handling/03.nivel-visualizacion-errores/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/luispalacio/Workspace/error-handling/03.nivel-visualizacion-errores/index.php on line 11
